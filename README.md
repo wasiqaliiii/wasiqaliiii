@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Wasiq 👋
 
-<!--
-**wasiqaliiii/wasiqaliiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Product Builder | AI & Full-Stack Developer
 
-Here are some ideas to get you started:
+I build production-oriented software systems, desktop applications,
+mobile platforms, and AI-powered products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on:
+- 💊 PharmaTrackPro — Pharmaceutical Track & Trace Platform
+- 📱 Cross-platform mobile applications
+- ☁️ Backend & cloud-connected systems
+- 🤖 AI/ML applications
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+C++ • Python • JavaScript • SQL
+
+### Frameworks & Technologies
+Qt • React • React Native • Node.js
+
+### Databases
+SQLite • PostgreSQL • MySQL
+
+### Tools
+Git • GitHub • CMake • VS Code • Visual Studio • Figma
+
+---
+
+## 🔥 Featured Projects
+
+### PharmaTrackPro
+High-speed pharmaceutical serial generation and QR verification platform.
+
+**Tech:** C++, Qt, TCP/IP, SQLite, CMake
+
+Features:
+- High-speed serial generation
+- Industrial QR scanner integration
+- Batch verification
+- Duplicate detection
+- Production reporting
+- Offline-first architecture
+- Central database synchronization
+
+[View Project →](repository-link)
+
+---
+
+## 📊 GitHub Activity
+
+Your statistics/widgets can go here.
+
+---
+
+## 🤝 Connect With Me
+
+LinkedIn • Portfolio • Email
